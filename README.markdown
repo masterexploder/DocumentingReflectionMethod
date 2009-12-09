@@ -47,4 +47,4 @@ if (isset($tags['someAnnotation']))
 
 The class itself is pretty well-documented, so you shouldn't have much trouble figuring things out.  If
 you want some brownie points, you could always create /edit wiki pages for various pieces of functionality, and
-if you need help / found a bug, file a ticket in the issues: http://github.com/masterexploder/DocumentingReflectionMethod/issues
+if you need help / found a bug, file a ticket in the [issues](http://github.com/masterexploder/DocumentingReflectionMethod/issues)
